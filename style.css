@@ -32,7 +32,7 @@ img {
 
   /*colors*/
   --title-color: hsl(36 62% 100%);
-  --subtitle-color: hsl(39, 100%, 88%);
+  --subtitle-color: hsl(36, 62%, 95%);
 
   --base-color: hsl(36 100% 50%);
   --base-color-alt: hsl(36 94% 60%); /*hover*/
