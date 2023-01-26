@@ -6,19 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>BarberShop</title>
 
-    <!--ICONS-->
     <link rel="stylesheet" href="assets/icons/style.css" />
 
-    <!--SWIPER para css-->
+    <!--swipper-->
     <link
       rel="stylesheet"
       href="https://unpkg.com/swiper/swiper-bundle.min.css"
     />
 
-    <!--STYLES-->
     <link rel="stylesheet" href="style.css" />
 
-    <!--FONTS-->
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link
       href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap"
@@ -26,10 +23,12 @@
     />
   </head>
   <body>
-    <!--cabeçalho-->
+ 
     <header id="header">
+
       <nav class="container">
         <a class="logo" href="#home">barber<span>Shop</span>.</a>
+        
         <div class="menu">
           <ul class="grid">
             <li><a class="title" href="#home">Início</a></li>
@@ -39,14 +38,16 @@
             <li><a class="title" href="#contact">Contatos</a></li>
           </ul>
         </div>
-        <!--div para posicionar os ícones de menu toggle (abre e fecha)-->
+        
         <div class="toggle icon-menu"></div>
+        
         <div class="toggle icon-close"></div>
       </nav>
+
     </header>
 
     <main>
-      <!--início--->
+
       <section class="section" id="home">
         <div class="container grid">
           <div class="image">
@@ -55,6 +56,7 @@
               alt="Foto interna da barbearia, com as três cadeiras vazias e ao fundo parede com tijolos."
             />
           </div>
+          
           <div class="text">
             <h2 class="title">Um novo conceito de barbearia</h2>
             <p>
@@ -68,21 +70,22 @@
               >Agende seu horário</a
             >
           </div>
+
         </div>
       </section>
 
-      <!--linha que divide a seção-->
       <div class="divider-1"></div>
 
-      <!--sobre-->
       <section class="section" id="about">
         <div class="container grid">
+          
           <div class="image">
             <img
               src="https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGJhcmJlcnNob3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
               alt="Barbeiro com tesoura na mão, cortando o cabelo do cliente."
             />
           </div>
+
           <div class="text">
             <h2 class="title">Sobre nós</h2>
             <p class="subtitle">
@@ -103,15 +106,15 @@
               ducimus harum.
             </p>
           </div>
+
         </div>
       </section>
 
-      <!--linha que divide a seção-->
       <div class="divider-2"></div>
 
-      <!--serviços-->
       <section class="section" id="services">
         <div class="container grid">
+          
           <header>
             <h2 class="title">Serviços</h2>
             <p>
@@ -121,6 +124,7 @@
               temporibus nam unde fugiat iusto?
             </p>
           </header>
+
           <div class="cards grid">
             <div class="card">
               <i class="icon-cosmetic"></i>
@@ -148,21 +152,23 @@
               </p>
             </div>
           </div>
+
         </div>
       </section>
 
-      <!--linha que divide a seção-->
       <div class="divider-1"></div>
 
-      <!--depoimentos--->
       <section class="section" id="testimonials">
         <div class="container swiper">
+
           <header>
             <h2 class="title">Depoimentos de quem já passou por aqui</h2>
           </header>
-          <!--adicionando Swiper conforne documentação da biblioteca-->
+        
           <div class="testimonials swiper-container">
+
             <div class="swiper-wrapper">
+
               <div class="testimonial swiper-slide">
                 <blockquote>
                   <p>
@@ -212,18 +218,19 @@
               </div>
             </div>
 
-            <!--escolhendo o estilo desejado, conforme documentação -->
+            <!--style-->
             <div class="swiper-pagination"></div>
+
           </div>
+
         </div>
       </section>
 
-      <!--linha que divide a seção-->
       <div class="divider-2"></div>
 
-      <!--contatos--->
       <section class="section" id="contact">
         <div class="container grid">
+          
           <div class="text">
             <h2 class="title">Entre em contato com a gente</h2>
             <p>
@@ -247,20 +254,22 @@
               <li><i class="icon-mail"></i>lorem@ipsum.com</li>
             </ul>
           </div>
+
         </div>
       </section>
 
-      <!--linha que divide a seção-->
       <div class="divider-1"></div>
     </main>
-    <!--rodapé-->
+  
     <footer class="section">
       <div class="container grid">
+        
         <div class="brand">
           <a class="logo" href="#home">barber<span>Shop</span>.</a>
           <p>@2022 BarberShop</p>
           <p>Todos os direitos reservados</p>
         </div>
+
         <div class="social grid">
           <a href="https://instagram.com" target="_blank">
             <i class="icon-instagram"></i>
@@ -272,10 +281,11 @@
             <i class="icon-youtube"></i>
           </a>
         </div>
+        
       </div>
     </footer>
 
-    <!--botão de voltar ao topo-->
+    <!--button back-->
     <a href="#home" class="back-to-top"><i class="icon-arrow-up"></i></a>
 
     <!--swiper para js-->
