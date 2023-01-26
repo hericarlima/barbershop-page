@@ -9,6 +9,8 @@ Layout made in HTML, CSS and Javascript, and using the Swiper framework for a mo
 
 ## Demonstrations
 
+### Mobile
 ![barbershopmobile-gif](https://user-images.githubusercontent.com/105971989/214844233-408091eb-305e-43ac-a941-2917bb729f91.gif)
 
+### Desktop
 ![barbershop-gif](https://user-images.githubusercontent.com/105971989/214859868-72a2e967-fef1-4944-be90-39b84f796939.gif)
