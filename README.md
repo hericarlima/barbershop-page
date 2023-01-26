@@ -5,7 +5,7 @@ Layout moderno e responsivo para apresentação profissional, com links para wha
 
 ## Tecnologias e recursos
 
-Layout feito em HTML, CSS e Javascript, com a utilização do framework Swiper para uma experiência mais moderna com transições personalizadas de páginas e carregamento de elementos.
+Layout feito em HTML, CSS e Javascript, e com a utilização do framework Swiper para uma experiência mais moderna, com transições personalizadas de páginas e carregamento de elementos.
 
 ## Demonstrações
 
