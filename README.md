@@ -11,4 +11,4 @@ Layout feito em HTML, CSS e Javascript, e com a utilização do framework Swiper
 
 ![barbershopmobile-gif](https://user-images.githubusercontent.com/105971989/214844233-408091eb-305e-43ac-a941-2917bb729f91.gif)
 
-![barbershop-gif](https://user-images.githubusercontent.com/105971989/214840918-3e67eace-ac9f-4e12-bca1-b72bf1e2e98a.gif)
+![barbershop-gif](https://user-images.githubusercontent.com/105971989/214859868-72a2e967-fef1-4944-be90-39b84f796939.gif)
