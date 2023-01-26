@@ -1,7 +1,7 @@
 # Barbershop
 Layout moderno e responsivo para apresentação profissional, com links para whatsapp e outras redes sociais.
 
-![barbershop-img](https://user-images.githubusercontent.com/105971989/214840257-ceddd649-ac67-4c7e-8bb4-217bc75c0932.png)
+![barbershop-img](https://user-images.githubusercontent.com/105971989/214861397-d551b079-9764-4d7c-b53f-16aef233ee58.png)
 
 ## Tecnologias e recursos
 
